@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-06T15:01:26 IST" name="Default suite" finished-at="2022-10-06T15:01:35 IST" duration-ms="8908">
+    <groups>
+    </groups>
+    <test started-at="2022-10-06T15:01:26 IST" name="Default test" finished-at="2022-10-06T15:01:35 IST" duration-ms="8908">
+      <class name="EMP.TC003_Post_New_Emp_Data">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:EMP.TC003_Post_New_Emp_Data@5af3afd9]" started-at="2022-10-06T15:01:26 IST" name="setUp" finished-at="2022-10-06T15:01:26 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setNewEmployeeData()[pri:0, instance:EMP.TC003_Post_New_Emp_Data@5af3afd9]" started-at="2022-10-06T15:01:26 IST" name="setNewEmployeeData" finished-at="2022-10-06T15:01:35 IST" duration-ms="8581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setNewEmployeeData -->
+        <test-method signature="checkContentType()[pri:0, instance:EMP.TC003_Post_New_Emp_Data@5af3afd9]" started-at="2022-10-06T15:01:35 IST" name="checkContentType" finished-at="2022-10-06T15:01:35 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method signature="checkEmpData()[pri:0, instance:EMP.TC003_Post_New_Emp_Data@5af3afd9]" started-at="2022-10-06T15:01:35 IST" name="checkEmpData" finished-at="2022-10-06T15:01:35 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkEmpData -->
+        <test-method signature="checkStatusCode()[pri:0, instance:EMP.TC003_Post_New_Emp_Data@5af3afd9]" started-at="2022-10-06T15:01:35 IST" name="checkStatusCode" finished-at="2022-10-06T15:01:35 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:EMP.TC003_Post_New_Emp_Data@5af3afd9]" started-at="2022-10-06T15:01:35 IST" name="checkStatusLine" finished-at="2022-10-06T15:01:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+      </class> <!-- EMP.TC003_Post_New_Emp_Data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
